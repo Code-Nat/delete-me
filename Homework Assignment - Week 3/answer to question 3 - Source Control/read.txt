@@ -1,0 +1,1 @@
+In this exercise, we (all members of the team of the final project in Zionet) had experimented with Git commands (braches, adding, commiting).
